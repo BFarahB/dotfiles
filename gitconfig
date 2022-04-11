@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = farah.belabbas@gmail.com
+	name = BELABBAS FARAH
